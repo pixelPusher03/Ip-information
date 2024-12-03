@@ -49,9 +49,9 @@ import os
  def banner2(): 
   
   
-     print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] Follow me on Instagram @mr_juice7 ", "- " * 4 + c.ran + "|") 
-     print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] Follow me on Instagram @cyber_dioxide_ ", "- " * 4+c.ran + "|") 
-     print(c.ran , "\n"+ "|"+ Style.BRIGHT + Fore.LIGHTRED_EX, "- " * 4, "[+] Github: https://github.com/Cyber-Dioxide/ ", "- " * 3+c.ran + "|") 
+     print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] Follow me on Instagram @the_developer03 ", "- " * 4 + c.ran + "|") 
+     print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] Follow me on Instagram @the_developer03 ", "- " * 4+c.ran + "|") 
+     print(c.ran , "\n"+ "|"+ Style.BRIGHT + Fore.LIGHTRED_EX, "- " * 4, "[+] Github: https://github.com/pixelPusher03/ ", "- " * 3+c.ran + "|") 
      print(c.ran + "\n"+ "|" + "*" * 60+c.ran + "|") 
   
  def clear(): 
